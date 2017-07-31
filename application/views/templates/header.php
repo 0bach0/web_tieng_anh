@@ -87,13 +87,13 @@
                   <div class="row">
                      <div class="col-xs-12 col-sm-4 col-md-5">
                         <div class="widget no-border m-0">
-                           <a class="menuzord-brand pull-left flip xs-pull-center mb-15" href="<?php echo base_url()?>"><img src="<?php echo asset_url()?>images/logo-1498764994" alt="" style="max-height: 45px"></a>
+                           <a class="menuzord-brand pull-left flip xs-pull-center mb-15" href="<?php echo base_url()?>"><img src="<?php echo asset_url()?>images/logo-web-tienganh.png" alt="" style="max-height: 45px"></a>
                         </div>
                      </div>
                      <div class="col-xs-6 col-sm-4 col-md-4">
                         <div class="widget no-border pull-right sm-pull-none sm-text-center mt-10 mb-10 m-0">
                            <ul class="list-inline">
-                              <li><i class="fa fa-phone-square text-theme-colored font-36 mt-5 sm-display-block"></i></li>
+                              <li ><i class="fa fa-phone-square text-theme-colored font-36 mt-5 sm-display-block"></i></li>
                               <li>
                                  <span class="font-12 text-gray text-uppercase">HOTLINE!</span>
                                  <div class="font-13 text-black m-0">096 886 0488</div>
@@ -104,7 +104,7 @@
                      <div class="col-xs-6 col-sm-4 col-md-3">
                         <div class="widget no-border pull-right sm-pull-none sm-text-center mt-10 mb-10 m-0">
                            <ul class="list-inline">
-                              <li><i class="fa fa-map-marker text-theme-colored font-36 mt-5 sm-display-block"></i></li>
+                              <li class="hidden-xs hidden-ms"><i class="fa fa-map-marker text-theme-colored font-36 mt-5 sm-display-block"></i></li>
                               <li>
                                  <span class="font-12 text-gray text-uppercase">Địa chỉ</span>
                                  <div class="font-13 text-black m-0">15/378 Lê Duẩn, Hà Nội</div>
